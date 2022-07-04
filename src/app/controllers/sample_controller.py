@@ -1,4 +1,4 @@
-class SampleReactor:
+class SampleController:
     def message_hello(self, message, say):
         # say() sends a message to the channel where the event was triggered
         say(

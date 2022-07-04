@@ -76,3 +76,7 @@ fabric.properties
 /bin
 /bin/*
 /lib
+
+/.idea
+/.idea/*
+!/.idea/
